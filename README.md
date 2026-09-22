@@ -2,7 +2,7 @@
 
 An AI-powered interview preparation SaaS platform built with the **MERN Stack** that enables users to upload resumes, generate personalized interview questions, practice technical and HR rounds, receive AI-driven feedback, and purchase credits through Razorpay for premium features.
 
-🔗 **Live Demo:** [interviewiq-rh0q.onrender.com](https://interviewiq-rh0q.onrender.com/)
+🔗 **Live Demo:** [interviewiq-rh0q.onrender.com](https://interviewiq-client-psyu.onrender.com)
 
 ---
 

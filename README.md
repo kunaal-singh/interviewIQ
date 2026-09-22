@@ -200,4 +200,4 @@ My experience includes developing end-to-end applications involving AI automatio
 
 ## 🔗 Links
 
-- LinkedIn: [ananya-singh-71b7252ba](https://www.linkedin.com/in/ananya-singh-71b7252ba)
+- LinkedIn: [kunal-singh-b6a87128b](https://www.linkedin.com/in/kunal-singh-b6a87128b/)

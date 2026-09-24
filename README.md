@@ -75,6 +75,8 @@ InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to anal
 <img width="1530" height="768" alt="Screenshot 2026-09-25 012919" src="https://github.com/user-attachments/assets/f98c108a-9e0f-4ee1-ba1e-e789225cff26" />
 
 
+[View Project Report](./docs/AI_Interview_Report%20(6).pdf)
+
 
 
 

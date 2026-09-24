@@ -14,19 +14,19 @@ InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to anal
 
 ##  Features
 
-- 📄 Upload Resume (PDF)
-- 🎙️ Voice-Based AI Interviews
-- 🤖 AI-Generated Interview Questions
-- 💻 Practice Technical & HR Interviews
-- 📊 Intelligent AI Feedback
-- 💳 Credit-Based Access System
-- 💰 Razorpay Payment Integration
-- 🔐 Firebase Google Authentication
-- 📜 Interview History & Reports
-- 🎨 Smooth UI with Framer Motion
-- ☁️ Full-Stack Deployment on Render
-- 💼 Subscription Plans
-- 📈 Performance Analytics Dashboard
+-  Upload Resume (PDF)
+-  Voice-Based AI Interviews
+-  AI-Generated Interview Questions
+-  Practice Technical & HR Interviews
+- Intelligent AI Feedback
+-  Credit-Based Access System
+-  Razorpay Payment Integration
+-  Firebase Google Authentication
+-  Interview History & Reports
+- Smooth UI with Framer Motion
+-  Full-Stack Deployment on Render
+-  Subscription Plans
+-  Performance Analytics Dashboard
 
 ---
 

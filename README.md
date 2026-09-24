@@ -94,7 +94,7 @@ InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to anal
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/ananya-singh/3.interviewIQ.git
+git clone https://github.com/kunaal-singh/interviewIQ.git
 
 cd 3.interviewIQ
 

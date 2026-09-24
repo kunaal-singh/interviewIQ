@@ -1,18 +1,18 @@
-# 🚀 InterviewIQ.AI
+# InterviewIQ.AI
 
 An AI-powered interview preparation SaaS platform built with the **MERN Stack** that enables users to upload resumes, generate personalized interview questions, practice technical and HR rounds, receive AI-driven feedback, and purchase credits through Razorpay for premium features.
 
-🔗 **Live Demo:** [interviewiq-rh0q.onrender.com](https://interviewiq-client-psyu.onrender.com)
+ **Live Demo:** [interviewiq-rh0q.onrender.com](https://interviewiq-client-psyu.onrender.com)
 
 ---
 
-## 📖 About the Project
+##  About the Project
 
 InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to analyze resumes and generate customized interview experiences. The platform combines secure authentication, intelligent feedback, payment integration, and a modern responsive UI to deliver a complete interview preparation ecosystem.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 📄 Upload Resume (PDF)
 - 🎙️ Voice-Based AI Interviews
@@ -30,7 +30,7 @@ InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to anal
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Client**
 - React.js
@@ -58,7 +58,7 @@ InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to anal
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <img width="467" height="172" alt="Screenshot 2026-09-25 012146" src="https://github.com/user-attachments/assets/2c850f6a-0a49-4866-8a3a-f6e221975671" />
 <img width="1535" height="772" alt="Screenshot 2026-09-25 012126" src="https://github.com/user-attachments/assets/762e641e-1d02-409d-b9de-705bf1725483" />
@@ -89,7 +89,7 @@ InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to anal
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository and install the required dependencies.
 
@@ -109,7 +109,7 @@ npm install
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 ### Server (`server/.env`)
 
@@ -141,11 +141,11 @@ VITE_FIREBASE_APP_ID=your_app_id
 VITE_RAZORPAY_KEY_ID=your_razorpay_key_id
 ```
 
-> ⚠️ **Note:** Never commit your `.env` files or expose API keys publicly.
+>  **Note:** Never commit your `.env` files or expose API keys publicly.
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 **Start Backend**
 
@@ -166,7 +166,7 @@ npm run dev
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 1. Users sign in securely using Google Authentication.
 2. Upload their resume in PDF format.
@@ -179,7 +179,7 @@ npm run dev
 
 ---
 
-## 📚 Lessons Learned
+##  Lessons Learned
 
 - Built a production-ready AI SaaS application by integrating OpenRouter AI for personalized interview generation, intelligent feedback, and AI-powered voice interviews to create an interactive mock interview experience.
 - Designed and implemented a scalable credit-based subscription system with Razorpay, enabling secure payments, premium plan management, and seamless monetization.
@@ -189,17 +189,17 @@ npm run dev
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
-- 👨‍💻 Live Coding Interview Environment
-- 🌍 Multi-language Support
-- 👥 Recruiter Dashboard
-- 📧 Email Interview Reports
-- 🤖 AI Career Recommendations
+-  Live Coding Interview Environment
+-  Multi-language Support
+-  Recruiter Dashboard
+-  Email Interview Reports
+-  AI Career Recommendations
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a passionate Full-Stack Developer with a strong foundation in the MERN stack and a keen interest in building AI-powered SaaS applications that solve real-world problems. I enjoy transforming innovative ideas into scalable, user-centric products by integrating modern technologies such as artificial intelligence, cloud services, authentication systems, and payment gateways.
 
@@ -207,6 +207,6 @@ My experience includes developing end-to-end applications involving AI automatio
 
 ---
 
-## 🔗 Links
+##  Links
 
 - LinkedIn: [kunal-singh-b6a87128b](https://www.linkedin.com/in/kunal-singh-b6a87128b/)

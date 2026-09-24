@@ -96,7 +96,7 @@ Clone the repository and install the required dependencies.
 ```bash
 git clone https://github.com/kunaal-singh/interviewIQ.git
 
-cd 3.interviewIQ
+cd interviewIQ
 
 # Install backend dependencies
 cd server

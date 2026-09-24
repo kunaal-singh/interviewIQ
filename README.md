@@ -60,23 +60,30 @@ InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to anal
 
 ## 📸 Screenshots
 
-| Dashboard | Advanced AI Capabilities |
-|---|---|
-| ![Dashboard](./screenshots/dashboard.png) | ![Advanced AI](./screenshots/advanced-ai.png) |
+<img width="467" height="172" alt="Screenshot 2026-09-25 012146" src="https://github.com/user-attachments/assets/2c850f6a-0a49-4866-8a3a-f6e221975671" />
+<img width="1535" height="772" alt="Screenshot 2026-09-25 012126" src="https://github.com/user-attachments/assets/762e641e-1d02-409d-b9de-705bf1725483" />
+<img width="1532" height="777" alt="Screenshot 2026-09-25 012204" src="https://github.com/user-attachments/assets/2c0d0195-5ef8-4241-86c9-15d51e2a76da" />
+<img width="1533" height="771" alt="Screenshot 2026-09-25 012221" src="https://github.com/user-attachments/assets/1d290757-0e76-4df0-8f81-e46ffbe34f48" />
+<img width="1530" height="770" alt="Screenshot 2026-09-25 012235" src="https://github.com/user-attachments/assets/f832310c-b950-412d-bc7d-aa0322c8705b" />
+<img width="1535" height="772" alt="Screenshot 2026-09-25 012342" src="https://github.com/user-attachments/assets/57072430-28ea-4fba-bf87-b6d2388d8d7a" />
+<img width="1535" height="771" alt="Screenshot 2026-09-25 012408" src="https://github.com/user-attachments/assets/60836d91-00e6-4bad-ad6e-a01aa5c40605" />
+<img width="1528" height="773" alt="Screenshot 2026-09-25 012504" src="https://github.com/user-attachments/assets/6b4e6ad2-8202-4623-9ab3-cfbe7d96bbda" />
+<img width="1535" height="776" alt="Screenshot 2026-09-25 012615" src="https://github.com/user-attachments/assets/46c1eae5-f586-4981-9bef-ac737c34f4e3" />
+<img width="1535" height="767" alt="Screenshot 2026-09-25 012642" src="https://github.com/user-attachments/assets/e67b03cf-3e24-414e-8d6c-b7380def2ae4" />
+<img width="1535" height="773" alt="Screenshot 2026-09-25 012702" src="https://github.com/user-attachments/assets/9538d971-3655-4ecf-a87c-019a12ef9027" />
+<img width="1535" height="757" alt="Screenshot 2026-09-25 012727" src="https://github.com/user-attachments/assets/5bf00848-4af5-4e1c-b79e-4a90d1484f15" />
+<img width="1530" height="768" alt="Screenshot 2026-09-25 012919" src="https://github.com/user-attachments/assets/f98c108a-9e0f-4ee1-ba1e-e789225cff26" />
 
-| Multi Models | Subscription Plans |
-|---|---|
-| ![Multi Models](./screenshots/multi-models.png) | ![Subscription](./screenshots/subscription.png) |
 
-| Interview Dashboard | Interview Panel |
-|---|---|
-| ![Interview Dashboard](./screenshots/interview-dashboard.png) | ![Interview Panel](./screenshots/interview-panel.png) |
 
-| Interview Analysis | Answers Analysis |
-|---|---|
-| ![Interview Analysis](./screenshots/interview-analysis.png) | ![Answers Analysis](./screenshots/answers-analysis.png) |
 
-> Replace the paths above with the actual image paths in your repo (e.g. `/screenshots/dashboard.png`).
+
+
+
+
+
+
+
 
 ---
 
